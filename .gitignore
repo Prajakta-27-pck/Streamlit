@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# add Streamlit to ignore
+.streamlit/
+
+
 # Distribution / packaging
 .Python
 build/
